@@ -7,7 +7,7 @@ Back-end Python Developer
 
 I have been programming for 1 year now, I am obsessed with this, so I want to rise in this area in order to create more interesting and useful projects for people)
 
-* 🌍  I'm based in Lviv, Ukaine
+* 🌍  I'm based in Kyiv, Ukaine
 * ✉️  You can contact me at [egorka.voitenko@gmail.com](mailto:egorka.voitenko@gmail.com)
 * 🙋‍♂️  I'm currently working on a large project in coders team
 * 🧠  I'm learning Django and FastAPI
