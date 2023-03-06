@@ -31,7 +31,7 @@ I have been programming for 1 year now, I am obsessed with this, so I want to ri
 
 <a href="http://www.github.com/YehorVoitenko"><img src="https://github-readme-stats.vercel.app/api?username=YehorVoitenko&show_icons=true&hide=stars,issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="YehorVoitenko's GitHub stats" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehorVoitenko&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <b>Top Repositories</b>
 
