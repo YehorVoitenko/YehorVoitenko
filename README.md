@@ -21,7 +21,6 @@ I have been programming for 1 year now, I am obsessed with this, so I want to ri
   <h3>Telegram: @YehorVoitenko</h3> 
 <br>
 </p>
-<h2> Skills</h2>
 
 <h2>Technologies</h2>
 Python 3<br>
