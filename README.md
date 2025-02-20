@@ -47,17 +47,3 @@ Jira Software
 
 </p>
 <br>
-<h2>Top Repositories</h2>
-
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
-
-<div width="100%" align="center"><a href="https://github.com/YehorVoitenko/AlliasBot" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YehorVoitenko&repo=AlliasBot&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&locale=en" /></a><a href="https://github.com/YehorVoitenko/CharitySolution" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=YehorVoitenko&repo=CharitySolution&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br>
-<h2>My GitHub Stats</h2>
-
-<label><a href="http://www.github.com/YehorVoitenko"><img src="https://github-readme-stats.vercel.app/api?username=YehorVoitenko&show_icons=true&hide=stars,issues,&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=22272e&hide_border=true&show_icons=true" alt="YehorVoitenko's GitHub stats" />
-</a>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehorVoitenko&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
-</label>
