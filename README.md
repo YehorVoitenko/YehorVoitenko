@@ -5,9 +5,9 @@ I am **Yehor Voitenko**
 Python Back-end Developer
 ----------------
 
-I have been programming for 1 year now, I am obsessed with this, so I want to rise in this area in order to create more interesting and useful projects for people)
 
-* 🌍  I'm based in Kyiv, Ukaine
+*  2 years of commercial experiance
+* 🌍  Based in Kyiv, Ukaine
 * ✉️  You can contact me at [egorka.voitenko@gmail.com](mailto:egorka.voitenko@gmail.com)
 * 🙋‍♂️  Work in Avataa
 * 🤝  I'm open to collaborating on useful and interesting projects
