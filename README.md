@@ -23,27 +23,27 @@ I have been programming for 1 year now, I am obsessed with this, so I want to ri
 </p>
 <h2> Skills</h2>
 
-<h2>**Technologies**</h2>
-Python 3
-FastAPI
-gRPC
-Elasticsearch
-Kafka
-Docker
-Pydantic
-Alembic
-SQL (PostgreSQL, SQLite)
-pytest
-Git
+<h2>Technologies</h2>
+Python 3<br>
+FastAPI<br>
+gRPC<br>
+Elasticsearch<br>
+Kafka<br>
+Docker<br>
+Pydantic<br>
+Alembic<br>
+SQL (PostgreSQL, SQLite)<br>
+pytest<br>
+Git<br>
 Celery
-
-<h2>**Tools**</h2>
-PyCharm
-GitHub
-GitLab
-YouTrack
-Slack
-gAdmin
+<br>
+<h2>Tools</h2>
+PyCharm<br>
+GitHub<br>
+GitLab<br>
+YouTrack<br>
+Slack<br>
+gAdmin<br>
 Jira Software
 
 </p>
