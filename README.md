@@ -9,7 +9,7 @@ Python Back-end Developer
 *  2 years of commercial experiance
 * 🌍  Based in Kyiv, Ukaine
 * ✉️  You can contact me at [egorka.voitenko@gmail.com](mailto:egorka.voitenko@gmail.com)
-* 🙋‍♂️  Work in Avataa
+* 🙋‍♂️  Work in Avataa LC
 * 🤝  I'm open to collaborating on useful and interesting projects
 * ⚡  Always ready for new idea and offers, so welcome to my email)
 
