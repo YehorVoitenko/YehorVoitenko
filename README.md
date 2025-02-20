@@ -9,8 +9,7 @@ I have been programming for 1 year now, I am obsessed with this, so I want to ri
 
 * 🌍  I'm based in Kyiv, Ukaine
 * ✉️  You can contact me at [egorka.voitenko@gmail.com](mailto:egorka.voitenko@gmail.com)
-* 🙋‍♂️  I'm currently working on a large project in coders team
-* 🧠  I'm learning Django and FastAPI
+* 🙋‍♂️  Work in Avataa
 * 🤝  I'm open to collaborating on useful and interesting projects
 * ⚡  Always ready for new idea and offers, so welcome to my email)
 
