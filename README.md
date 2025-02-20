@@ -18,19 +18,33 @@ I have been programming for 1 year now, I am obsessed with this, so I want to ri
 
 <p align="left"> <a href="https://www.github.com/YehorVoitenko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/egoorra._" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.linkedin.com/in/yehorvoitenko/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="32" height="32" /></a>
-  <h3>Telegram: @Yehor_Voiten</h3> 
+  <h3>Telegram: @YehorVoitenko</h3> 
 <br>
 </p>
 <h2> Skills</h2>
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="45" height="45"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="django" width="45" height="45"/>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="sqlite" width="45" height="45"/>
-   <img src="https://cdn.worldvectorlogo.com/logos/bootstrap.svg" alt="bootstrap" width="45" height="45"/>
+<h2>**Technologies**</h2>
+Python 3
+FastAPI
+gRPC
+Elasticsearch
+Kafka
+Docker
+Pydantic
+Alembic
+SQL (PostgreSQL, SQLite)
+pytest
+Git
+Celery
 
+<h2>**Tools**</h2>
+PyCharm
+GitHub
+GitLab
+YouTrack
+Slack
+gAdmin
+Jira Software
 
 </p>
 <br>
